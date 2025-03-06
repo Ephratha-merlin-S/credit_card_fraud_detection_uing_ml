@@ -1,0 +1,6 @@
+cd credit_card_fraud_detection
+git init
+git remote add origin <your-github-repo-url>
+git add .
+git commit -m "Initial commit"
+git push -u origin master
