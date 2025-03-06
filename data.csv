@@ -1,0 +1,4 @@
+mkdir credit_card_fraud_detection
+cd credit_card_fraud_detection
+mkdir data notebooks models src
+touch requirements.txt README.md
